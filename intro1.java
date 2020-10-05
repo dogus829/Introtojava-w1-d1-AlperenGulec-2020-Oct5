@@ -15,6 +15,8 @@ public class Main
 	    // true or false.
 	    char myChar = 'i'; // stores a single Character or 
 	    // ASCII values.
+		
+            myChar = 'j';
 	    
 	     System.out.println(myByte);
 	     System.out.println(myShort);
